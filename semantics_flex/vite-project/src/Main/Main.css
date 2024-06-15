@@ -1,0 +1,15 @@
+.main{
+    flex-grow: 1;
+    background-color: #ccc;
+    display: flex;
+    
+  }
+
+.section_group{
+  width: 70%;
+  height: auto;
+  background-color: bisque;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
